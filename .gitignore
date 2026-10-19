@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# IDE & Editor folders
+.vscode/
+.vs/
+.idea/
+*.swp
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
